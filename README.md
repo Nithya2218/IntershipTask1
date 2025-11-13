@@ -18,4 +18,4 @@ A simple Python command-line calculator that supports basic arithmetic operation
 2. Open a terminal in the project folder.
 3. Run the program:
    ```bash
-   python calculator.py
+   python Calculator.py
